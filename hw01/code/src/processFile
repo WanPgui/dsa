@@ -1,0 +1,5 @@
+public static void main(String[] args) {
+    processFile("../sample_inputs/sample_input_01.txt", "../sample_results/sample_input_01.txt_results.txt");
+    processFile("../sample_inputs/sample_input_02.txt", "../sample_results/sample_input_02.txt_results.txt");
+    // Add more files as needed
+}
